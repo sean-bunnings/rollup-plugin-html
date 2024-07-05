@@ -8,7 +8,7 @@
     "dist"
   ],
   "dependencies": {
-    "html-minifier": "^3.0.2",
+    "html-minifier-terser": "^7.2.0",
     "rollup-pluginutils": "^1.5.0"
   },
   "devDependencies": {
